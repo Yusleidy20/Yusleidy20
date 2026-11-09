@@ -75,7 +75,3 @@ Microservicios · DDD · Arquitectura Hexagonal · SOLID · APIs REST
   <i>Construyendo proyectos, aprendiendo y compartiendo código.</i>
 </p>
 ---
-
-<p align="center">
-  <i>Construir, aprender y mejorar. Siempre.</i> 💗
-</p>
