@@ -67,8 +67,6 @@ Microservicios · DDD · Arquitectura Hexagonal · SOLID · APIs REST
 
 ### GitHub
 
-### GitHub
-
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-Yusleidy20-FFF0F5?style=for-the-badge&logo=github&logoColor=B94F80" />
 </p>
