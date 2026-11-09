@@ -1,8 +1,8 @@
 # Yusleidy Gamboa <sub>✿</sub>
 
-**Desarrolladora de Software | Desarrolladora Full Stack*
+**Desarrolladora Full Stack | Desarrollo de Software**
 
-Desarrolladora Full Stack enfocada en crear soluciones tecnológicas, aplicaciones empresariales y sistemas escalables. Me apasiona la ingeniería de software, la arquitectura de aplicaciones y la resolución de problemas.
+Desarrolladora de software enfocada en construir aplicaciones web, soluciones empresariales y sistemas escalables. Me apasiona resolver problemas, desarrollar nuevas funcionalidades y crear soluciones tecnológicas.
 
 [🌐 Portafolio](https://yusdev.world) · [💼 LinkedIn](https://www.linkedin.com/in/yusleidy-gamboa-914299196/)
 
@@ -10,43 +10,64 @@ Desarrolladora Full Stack enfocada en crear soluciones tecnológicas, aplicacion
 
 ### Sobre mí
 
-- 🎓 Tecnóloga en Análisis y Desarrollo de Software.
+- 🎓 Tecnóloga en Análisis y Desarrollo de Software — SENA.
 - 📚 Estudiante de Ingeniería de Sistemas.
-- 💻 Enfocada en desarrollo backend y soluciones empresariales.
-- 🧩 Interesada en arquitectura de software, cloud e inteligencia artificial.
+- 💻 Experiencia en desarrollo frontend y backend.
+- 🧩 Interés en arquitectura de software, cloud e inteligencia artificial.
 
 ### Tecnologías
 
 **Backend**
 
-![Backend](https://skillicons.dev/icons?i=java,spring,php,laravel,python)
+![Java](https://img.shields.io/badge/Java-FFF0F5?style=flat-square&logo=openjdk&logoColor=B94F80)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-FFF0F5?style=flat-square&logo=springboot&logoColor=B94F80)
+![PHP](https://img.shields.io/badge/PHP-FFF0F5?style=flat-square&logo=php&logoColor=B94F80)
+![Laravel](https://img.shields.io/badge/Laravel-FFF0F5?style=flat-square&logo=laravel&logoColor=B94F80)
+![Python](https://img.shields.io/badge/Python-FFF0F5?style=flat-square&logo=python&logoColor=B94F80)
 
 **Frontend**
 
-![Frontend](https://skillicons.dev/icons?i=react,typescript,javascript,angular,vite)
+![React](https://img.shields.io/badge/React-FFF0F5?style=flat-square&logo=react&logoColor=B94F80)
+![TypeScript](https://img.shields.io/badge/TypeScript-FFF0F5?style=flat-square&logo=typescript&logoColor=B94F80)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFF0F5?style=flat-square&logo=javascript&logoColor=B94F80)
+![Angular](https://img.shields.io/badge/Angular-FFF0F5?style=flat-square&logo=angular&logoColor=B94F80)
+![Vite](https://img.shields.io/badge/Vite-FFF0F5?style=flat-square&logo=vite&logoColor=B94F80)
 
 **Bases de datos**
 
-![Databases](https://skillicons.dev/icons?i=mysql,postgres,oracle)
+![MySQL](https://img.shields.io/badge/MySQL-FFF0F5?style=flat-square&logo=mysql&logoColor=B94F80)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFF0F5?style=flat-square&logo=postgresql&logoColor=B94F80)
+![Oracle](https://img.shields.io/badge/Oracle-FFF0F5?style=flat-square&logo=oracle&logoColor=B94F80)
 
 **Herramientas e infraestructura**
 
-![Tools](https://skillicons.dev/icons?i=aws,docker,git,github,linux,postman)
+![AWS](https://img.shields.io/badge/AWS-FFF0F5?style=flat-square&logo=amazonwebservices&logoColor=B94F80)
+![Docker](https://img.shields.io/badge/Docker-FFF0F5?style=flat-square&logo=docker&logoColor=B94F80)
+![Git](https://img.shields.io/badge/Git-FFF0F5?style=flat-square&logo=git&logoColor=B94F80)
+![GitHub](https://img.shields.io/badge/GitHub-FFF0F5?style=flat-square&logo=github&logoColor=B94F80)
+![Linux](https://img.shields.io/badge/Linux-FFF0F5?style=flat-square&logo=linux&logoColor=B94F80)
+![Postman](https://img.shields.io/badge/Postman-FFF0F5?style=flat-square&logo=postman&logoColor=B94F80)
 
-**Arquitectura:** Microservicios · DDD · Arquitectura Hexagonal · SOLID · APIs REST
+**Arquitectura y buenas prácticas**
+
+Microservicios · DDD · Arquitectura Hexagonal · SOLID · APIs REST
+
+---
 
 ### Proyectos destacados
 
 | Proyecto | Descripción |
 |---|---|
-| 🌊 **NautiFlow** | Gestión de operaciones y transporte náutico. |
-| 🤖 **Procuraduría Prep** | Asistente de estudio con IA y RAG. |
-| 🎓 **SkillUp Workspace** | Plataforma educativa. |
-| 🌦️ **Agent Climate** | Agente meteorológico con IA. |
+| 🌊 **NautiFlow** | Plataforma Back-Office para la gestión de operaciones de transporte náutico. |
+| 🤖 **Procuraduría Prep** | Asistente de preparación académica con inteligencia artificial y RAG. |
+| 🎓 **SkillUp Workspace** | Plataforma educativa con frontend y backend integrados. |
+| 🌦️ **Agent Climate** | Agente meteorológico interactivo desarrollado con Python e inteligencia artificial. |
+
+---
 
 ### GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yusleidy20&show_icons=true&hide_border=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yusleidy20&show_icons=true&hide_border=true&theme=default&title_color=B94F80&icon_color=B94F80)
 
 ---
 
