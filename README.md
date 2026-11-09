@@ -1,6 +1,6 @@
 # Yusleidy Gamboa <sub>✿</sub>
 
-**Desarrolladora de Software | Backend & Software Architecture**
+**Desarrolladora de Software | Desarrolladora Full Stack*
 
 Me apasiona construir soluciones tecnológicas, diseñar sistemas y resolver problemas mediante software. Disfruto trabajar en el desarrollo backend, la arquitectura de aplicaciones y la creación de productos digitales.
 
