@@ -2,7 +2,7 @@
 
 **Desarrolladora de Software | Desarrolladora Full Stack*
 
-Me apasiona construir soluciones tecnológicas, diseñar sistemas y resolver problemas mediante software. Disfruto trabajar en el desarrollo backend, la arquitectura de aplicaciones y la creación de productos digitales.
+Desarrolladora Full Stack enfocada en crear soluciones tecnológicas, aplicaciones empresariales y sistemas escalables. Me apasiona la ingeniería de software, la arquitectura de aplicaciones y la resolución de problemas.
 
 [🌐 Portafolio](https://yusdev.world) · [💼 LinkedIn](https://www.linkedin.com/in/yusleidy-gamboa-914299196/)
 
