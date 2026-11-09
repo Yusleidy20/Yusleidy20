@@ -67,8 +67,15 @@ Microservicios · DDD · Arquitectura Hexagonal · SOLID · APIs REST
 
 ### GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yusleidy20&show_icons=true&hide_border=true&theme=default&title_color=B94F80&icon_color=B94F80)
+### GitHub
 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Yusleidy20&show_icons=true&hide_border=true&theme=default&title_color=B94F80&icon_color=B94F80&hide_title=false&include_all_commits=true"
+    width="100%"
+    alt="Estadísticas de GitHub"
+  />
+</p>
 ---
 
 <p align="center">
