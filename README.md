@@ -4,7 +4,7 @@
 
 Desarrolladora de software enfocada en construir aplicaciones web, soluciones empresariales y sistemas escalables. Me apasiona resolver problemas, desarrollar nuevas funcionalidades y crear soluciones tecnológicas.
 
-[🌐 Portafolio](https://yusdev.world) · [💼 LinkedIn](https://www.linkedin.com/in/yusleidy-gamboa-914299196/)
+[🌐 Portafolio](https://yusdevportfolio.netlify.app/) · [💼 LinkedIn](https://www.linkedin.com/in/yusleidy-gamboa-914299196/)
 
 ---
 
